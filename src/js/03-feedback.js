@@ -10,8 +10,8 @@ form.addEventListener('input', throttle(500, onLocalStorageSet));
 form.addEventListener('submit', onFormSubmit);
 
 // код
-lastFormInput();
 const formData = {};
+lastFormInput(); // функція відновлює останні дані, що було до перезавантаження сторінки
 
 // сет функцій
 function onLocalStorageSet(evt) {
@@ -36,9 +36,11 @@ function lastFormInput() {
     const obj = JSON.parse(savedData);
     if (obj.email) {
       input.value = obj.email;
+      formData.email = obj.email;
     }
     if (obj.message) {
       textarea.value = obj.message;
+      formData.message = obj.message;
     }
   }
 }
