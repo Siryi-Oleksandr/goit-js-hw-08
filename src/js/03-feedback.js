@@ -1,12 +1,12 @@
-import throttle from 'lodash.throttle';
+import { throttle } from 'throttle-debounce';
+
 // виборка елементів
 const form = document.querySelector('.js-feedback-form');
 const input = document.querySelector('.js-input');
 const textarea = document.querySelector('.js-textarea');
 
 // навішування прослуховувачів
-// form.addEventListener('input', throttle(onLocalStorageSet, 500));
-form.addEventListener('input', onLocalStorageSet);
+form.addEventListener('input', throttle(500, onLocalStorageSet));
 form.addEventListener('submit', onFormSubmit);
 
 // код
@@ -21,7 +21,10 @@ function onLocalStorageSet(evt) {
 
 function onFormSubmit(evt) {
   evt.preventDefault();
-  console.log(formData);
+  const outputDataToConsol = JSON.parse(
+    localStorage.getItem('feedback-form-state')
+  );
+  console.log(outputDataToConsol);
 
   evt.currentTarget.reset();
   localStorage.removeItem('feedback-form-state');
