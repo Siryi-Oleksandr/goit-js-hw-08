@@ -88,7 +88,7 @@
 48C:\projects\goit-js-hw-08\node_modules\@mischnic133159917005238458 1
 78C:\projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\svg-fonts.js133159917096879588 0
 69C:\projects\goit-js-hw-08\node_modules\lmdb-win32-x64\node.abi93.node133159917064107096 0
-30C:\projects\goit-js-hw-08\dist133159938506707812 1
+30C:\projects\goit-js-hw-08\dist133160073837348249 1
 62C:\projects\goit-js-hw-08\node_modules\htmlnano\lib\helpers.js133159917055216420 0
 108C:\projects\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV5\files\embed\embed2133159917070027512 1
 68C:\projects\goit-js-hw-08\node_modules\entities\lib\maps\legacy.json133159917055946488 0
@@ -213,7 +213,7 @@
 89C:\projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\high-resolution-time.js133159917084187014 0
 95C:\projects\goit-js-hw-08\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\030-config.md133159917069697492 0
 61C:\projects\goit-js-hw-08\node_modules\resolve-from\readme.md133159917043170224 0
-44C:\projects\goit-js-hw-08\src\js\02-video.js133159932431964427 0
+44C:\projects\goit-js-hw-08\src\js\02-video.js133160073835954108 0
 49C:\projects\goit-js-hw-08\src\css\03-feedback.css133159546263150960 0
 83C:\projects\goit-js-hw-08\node_modules\@parcel\transformer-html\lib\dependencies.js133159917036924794 0
 57C:\projects\goit-js-hw-08\node_modules\tslib\tslib.es6.js133159917044835670 0
@@ -2065,7 +2065,7 @@
 56C:\projects\goit-js-hw-08\node_modules\fclone\.npmignore133159917036234786 0
 58C:\projects\goit-js-hw-08\dist\01-gallery.101ee4ef.css.map133159932443218303 0
 74C:\projects\goit-js-hw-08\node_modules\node-addon-api\package-support.json133159917059106729 0
-55C:\projects\goit-js-hw-08\dist\02-video.a74b541c.js.map133159932443768328 0
+55C:\projects\goit-js-hw-08\dist\02-video.a74b541c.js.map133160073837328354 0
 85C:\projects\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb.c133159917069497465 0
 84C:\projects\goit-js-hw-08\node_modules\fast-glob\out\providers\matchers\matcher.d.ts133159917067267328 0
 73C:\projects\goit-js-hw-08\node_modules\node-addon-api\tools\check-napi.js133159917056426526 0
@@ -4795,7 +4795,7 @@
 54C:\projects\goit-js-hw-08\dist\01-gallery.7d68834f.css133159932442888244 0
 58C:\projects\goit-js-hw-08\dist\01-gallery.7d68834f.css.map133159932443218303 0
 46C:\projects\goit-js-hw-08\dist\01-gallery.html133159932443878302 0
-51C:\projects\goit-js-hw-08\dist\02-video.a74b541c.js133159932443578317 0
+51C:\projects\goit-js-hw-08\dist\02-video.a74b541c.js133160073837274215 0
 44C:\projects\goit-js-hw-08\dist\02-video.html133159932443878302 0
 55C:\projects\goit-js-hw-08\dist\03-feedback.ba2d0753.css133159932442888244 0
 56C:\projects\goit-js-hw-08\dist\goit-js-hw-08.59712999.js133159932443578317 0
