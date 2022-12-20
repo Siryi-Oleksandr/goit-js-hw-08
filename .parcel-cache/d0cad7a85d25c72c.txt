@@ -88,7 +88,7 @@
 48C:\projects\goit-js-hw-08\node_modules\@mischnic133159917005238458 1
 78C:\projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\svg-fonts.js133159917096879588 0
 69C:\projects\goit-js-hw-08\node_modules\lmdb-win32-x64\node.abi93.node133159917064107096 0
-30C:\projects\goit-js-hw-08\dist133160104653281578 1
+30C:\projects\goit-js-hw-08\dist133160143704251516 1
 62C:\projects\goit-js-hw-08\node_modules\htmlnano\lib\helpers.js133159917055216420 0
 108C:\projects\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV5\files\embed\embed2133159917070027512 1
 68C:\projects\goit-js-hw-08\node_modules\entities\lib\maps\legacy.json133159917055946488 0
@@ -219,7 +219,7 @@
 57C:\projects\goit-js-hw-08\node_modules\tslib\tslib.es6.js133159917044835670 0
 73C:\projects\goit-js-hw-08\node_modules\native-promise-only\lib\npo.src.js133159917050496076 0
 90C:\projects\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.1133159917063417051 0
-47C:\projects\goit-js-hw-08\src\js\03-feedback.js133160104651794126 0
+47C:\projects\goit-js-hw-08\src\js\03-feedback.js133160143702271171 0
 61C:\projects\goit-js-hw-08\node_modules\@parcel\compressor-raw133159917044675644 1
 70C:\projects\goit-js-hw-08\node_modules\caniuse-lite\data\regions\AW.js133159917068137364 0
 71C:\projects\goit-js-hw-08\node_modules\svgo\plugins\convertTransform.js133159917062777003 0
@@ -458,7 +458,7 @@
 73C:\projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\avif.js133159917068017351 0
 68C:\projects\goit-js-hw-08\node_modules\json-parse-even-better-errors133159917045835719 1
 95C:\projects\goit-js-hw-08\node_modules\@parcel\package-manager\test\fixtures\empty\package.json133159917066847266 0
-54C:\projects\goit-js-hw-08\dist\03-feedback.5440b4f4.js133160104653231539 0
+54C:\projects\goit-js-hw-08\dist\03-feedback.5440b4f4.js133160143704121333 0
 78C:\projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\web-share.js133159917099989839 0
 86C:\projects\goit-js-hw-08\node_modules\@swc\helpers\lib\_initializer_warning_helper.js133159917067917355 0
 44C:\projects\goit-js-hw-08\node_modules\json5133159917057576595 1
@@ -2501,7 +2501,7 @@
 62C:\projects\goit-js-hw-08\node_modules\is-arrayish\.travis.yml133159917051026101 0
 82C:\projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-when-else.js133159917079478241 0
 81C:\projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\font-loading.js133159917082588490 0
-58C:\projects\goit-js-hw-08\dist\03-feedback.5440b4f4.js.map133160104653261541 0
+58C:\projects\goit-js-hw-08\dist\03-feedback.5440b4f4.js.map133160143704221514 0
 61C:\projects\goit-js-hw-08\node_modules\import-fresh\readme.md133159917043380241 0
 70C:\projects\goit-js-hw-08\node_modules\caniuse-lite\data\regions\MW.js133159917090477457 0
 60C:\projects\goit-js-hw-08\node_modules\entities\lib\index.js133159917053526290 0

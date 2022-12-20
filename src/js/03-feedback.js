@@ -10,7 +10,7 @@ form.addEventListener('input', throttle(500, onLocalStorageSet));
 form.addEventListener('submit', onFormSubmit);
 
 // код
-const formData = {};
+let formData = {};
 lastFormInput(); // функція відновлює останні дані, що було до перезавантаження сторінки
 
 // сет функцій
@@ -28,6 +28,7 @@ function onFormSubmit(evt) {
 
   evt.currentTarget.reset();
   localStorage.removeItem('feedback-form-state');
+  formData = {};
 }
 
 function lastFormInput() {
